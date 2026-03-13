@@ -79,7 +79,7 @@ npm
 Clone the repository:
 
 ```bash
-    git clone <repository-url>
+    git clone https://github.com/tulio-ferreira21/model-mvc-generator
 
 ```
 Install dependencies if needed and link the CLI locally:
