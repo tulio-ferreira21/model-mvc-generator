@@ -1,16 +1,27 @@
 {
   "name": "model-mvc",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "CLI tool to generate MVC module structure for Node.js projects",
   "main": "script.js",
   "bin": {
     "model-mvc": "./script.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No tests\""
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "mvc",
+    "node",
+    "cli",
+    "generator",
+    "architecture",
+    "express"
+  ],
+  "author": "Tulio Ferreira",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tulio-ferreira21/model-mvc-generator"
+  },
   "type": "commonjs"
 }

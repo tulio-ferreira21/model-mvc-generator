@@ -5,7 +5,7 @@ const path = require('path')
 const name = process.argv[2]
 
 if (!name) {
-    console.log('Informe um nome: model-mvc nome')
+    console.log('Informe um nome: model-mvc <module-name>')
     process.exit()
 }
 
